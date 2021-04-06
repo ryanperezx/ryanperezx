@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://github.com/ryanperezx/ryanperezx/blob/main/github-metrics.svg)
 
 <!--
 **ryanperezx/ryanperezx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
